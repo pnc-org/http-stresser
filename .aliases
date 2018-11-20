@@ -1,0 +1,4 @@
+alias gst="git status"
+alias gu="git add -u"
+alias gcane="git commit --amend --no-edit"
+alias gcm="git commit -m"
